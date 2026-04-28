@@ -1,4 +1,0 @@
-[submodule "PortfolioSite/themes/blowfish"]
-	path = PortfolioSite/themes/blowfish
-	url = https://github.com/nunocoracao/blowfish.git
-	branch = main
