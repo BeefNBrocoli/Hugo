@@ -1,6 +1,5 @@
 ---
 title: "Cave Crashers"
-description: "4th Year Capstone Project"
 date: 2026-04-08
 ---
 
