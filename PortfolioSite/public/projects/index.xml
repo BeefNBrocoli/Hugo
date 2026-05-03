@@ -6,14 +6,16 @@
     <description>Recent content in Projects on Anthony Tran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 </copyright>
+    <managingEditor>youremail@example.com (Anthony Tran)</managingEditor>
+    <webMaster>youremail@example.com (Anthony Tran)</webMaster>
+    <copyright>© 2026 Anthony Tran</copyright>
     <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cave Crashers</title>
       <link>//localhost:1313/projects/cavecrashers/</link>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-      
+      <author>youremail@example.com (Anthony Tran)</author>
       <guid>//localhost:1313/projects/cavecrashers/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/cavecrashers/featured.jpg" />
@@ -23,7 +25,7 @@
       <title>The Last Call</title>
       <link>//localhost:1313/projects/thelastcall/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>youremail@example.com (Anthony Tran)</author>
       <guid>//localhost:1313/projects/thelastcall/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/thelastcall/featured.jpg" />
@@ -33,7 +35,7 @@
       <title>Dino Dash</title>
       <link>//localhost:1313/projects/dinodash/</link>
       <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-      
+      <author>youremail@example.com (Anthony Tran)</author>
       <guid>//localhost:1313/projects/dinodash/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/projects/dinodash/featured.jpg" />
