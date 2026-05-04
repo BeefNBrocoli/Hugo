@@ -13,6 +13,11 @@
 [[main]]
    name = "Projects"
    pageRef = "projects"
+
+[[main]]
+   name = "About"
+   pageRef = "about"
+   
 #[[main]]
 #  name = "Blog"
 #  pageRef = "posts"
