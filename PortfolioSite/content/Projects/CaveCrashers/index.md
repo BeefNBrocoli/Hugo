@@ -3,7 +3,14 @@ title: "Cave Crashers"
 date: 2026-04-08
 ---
 
-Cave Crashers is a 2D Top Down, Local Co-op, Wave shooter where you and a friend play as star-nosed moles who shoot bugs, collects gems, and survive for as long as you can.
+Cave Crashers is a 2D Top Down, Local Co-op, Wave shooter where you and a friend play as star-nosed moles who shoot bugs, collects gems, and survive for as long as you can. 
+
+Role: Generalist Programmer, Sound Designer
+
+Contributions:
+- Created and Integrated Sound effects for the game using Audacity 
+- Developed Gameplay Mechanics and performed bugfixing
+- Contributed work on Options, Main Menu, and Navigation map UI elements
 
 ![Alt text](img/CaveCrasher_Screenshot1.jpg)
 ![Alt text](img/CaveCrasher_Screenshot2.jpg)
