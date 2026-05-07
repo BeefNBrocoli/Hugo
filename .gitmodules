@@ -1,3 +1,3 @@
-[submodule "PortfolioSite/PortfolioSite/themes/blowfish"]
-	path = PortfolioSite/themes/blowfish
+[submodule "Hugo/PortfolioSite/themes/blowfish"]
+	path = Hugo/PortfolioSite/themes/blowfish
 	url = https://github.com/nunocoracao/blowfish.git
