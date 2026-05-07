@@ -1,0 +1,4 @@
+[submodule "PortfolioSite/public"]
+	path = PortfolioSite/public
+	url = https://github.com/BeefNBrocoli/beefnbrocoli.github.io.git
+	branch = main
