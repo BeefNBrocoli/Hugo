@@ -8,9 +8,9 @@ Cave Crashers is a 2D Top Down, Local Co-op, Wave shooter where you and a friend
 Role: Generalist Programmer, Sound Designer
 
 Contributions:
-- Created and Integrated Sound effects for the game using Audacity 
-- Developed Gameplay Mechanics and performed bugfixing
-- Contributed work on Options, Main Menu, and Navigation map UI elements
+- Created and Integrated Sound effects for the game, most notably the idle, attack, death sound effects for enemies
+- Implemented Gameplay mechanics like Engine overheating and repair system
+- Developed UI systems for the options menu, main menu, and navigation menu, handling user input and button navigation
 
 ![Alt text](img/CaveCrasher_Screenshot1.jpg)
 ![Alt text](img/CaveCrasher_Screenshot2.jpg)
